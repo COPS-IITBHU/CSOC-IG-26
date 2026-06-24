@@ -1,0 +1,6 @@
+[submodule "Week1"]
+	path = Week1
+	url = https://github.com/COPS-Summer-of-Code-2026/IG-Artificial-Neural-Networks.git
+[submodule "Week0"]
+	path = Week0
+	url = https://github.com/COPS-Summer-of-Code-2026/IG-Linear-and-Logistic-Regression.git
